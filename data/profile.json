@@ -1,5 +1,5 @@
 {
-  "name": "Renan J Paula",
+  "name": "Carla T D Martins",
   "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
   "job": "Tech Lead no S3 Bank",
   "location": "São Paulo - SP",
@@ -45,6 +45,21 @@
     "Inglês (intermediário)",
     "Espanhol (intermediário)",
     "Italiano (iniciante)"
+  ],
+  "education": [
+    {
+      "formacao": "Formação Javascript Dio",
+      "period": " Carga Horária- 39h"
+    },
+    {
+      "formacao": "Curso Técnico em Informática integrado ao ensino médio",
+      "period": "2018-2020"
+    },
+    {
+      "formacao": "Ensino Superior - Sistemas de Informação",
+      "period": "2021-2025"
+      
+    }
   ],
   "portfolio": [
     {
