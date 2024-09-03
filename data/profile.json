@@ -12,7 +12,7 @@
         "logo": "https://raw.githubusercontent.com/Carla1331/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
-        "name": "Nodejs",
+        "name": "NodeJS",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
@@ -48,18 +48,19 @@
   ],
   "education": [
     {
-      "formacao": "Formação Javascript Dio",
-      "period": " Carga Horária - 39h"
+      "formacao": "Ensino Superior/Sistemas de Informação",
+      "period": "2021-2025"
+      
     },
     {
       "formacao": "Curso Técnico em Informática/Integrado ao ensino médio",
       "period": "2018-2020"
     },
     {
-      "formacao": "Ensino Superior/Sistemas de Informação",
-      "period": "2021-2025"
-      
+      "formacao": "Formação Javascript Dio",
+      "period": " Carga Horária - 39h"
     }
+     
   ],
   "portfolio": [
     {
